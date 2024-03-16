@@ -1099,7 +1099,7 @@ int main() {
       
       printf("\n\n\n  -------------Completed--------------");    
       
-      printf("\n\n\n       ------------The Q------------");
+   /*   printf("\n\n\n       ------------The Q------------");
       printf("\n\n           Written by: Ayush Raj");
       printf("\n\n           Art Director: Ayush Raj");
       printf("\n\n          Studio Director: Ayush Raj");
@@ -1107,6 +1107,6 @@ int main() {
       printf("\n\n   Production & Game Designer: Ayush Raj");
       printf("\n\n   Co-producer & Game Designer: Ayush Raj\n\n\n");      
         
-        }  //CRADIT
+        }*/  //CRADIT
           return 0;
         }   //MAIN CLOSE
